@@ -1,2 +1,3 @@
 # testrepo
-for demo purpose
+for demo use 
+this is my first repo
